@@ -1,0 +1,47 @@
+.label{
+   
+    padding: 100px;
+    margin: 50px;
+
+}
+.input{
+    
+    margin: 50px;
+    
+}
+
+#Menu li{
+    text-transform: capitalize;
+    display: inline;
+    padding: 1rem;
+    
+}
+
+#list li{
+    text-transform: capitalize;
+    display: inline;
+    padding: 1rem;
+    
+}
+
+
+#body{
+    background-color: rgb(255, 247, 139);
+}
+
+#header{
+
+    background-color: rgb(26, 177, 6);
+    text-align: center;
+    align-items: center;
+}
+
+#container{
+    background-color: #01f7ff;
+    text-align: center;      
+}
+
+#footer{
+    background-color: #2bff01;
+    text-align: center;      
+}
